@@ -1,8 +1,8 @@
 {
-  "name": "get-started-node",
+  "name": "Watson_Node_072020_320P",
   "main": "server.js",
   "description": "An introduction to developing Node.js apps on the IBM Cloud platform",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "private": false,
   "engines": {
     "node": "10.*"
