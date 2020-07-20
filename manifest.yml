@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: S2T_720_330P
    random-route: true
    memory: 256M
